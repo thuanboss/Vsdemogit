@@ -10,6 +10,7 @@ namespace DemoGit
     {
         static void Main(string[] args)
         {
+            //ket noi git hub
         }
     }
 }
